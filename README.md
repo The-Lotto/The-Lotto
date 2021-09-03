@@ -9,7 +9,7 @@ All community funds will be voted for monthly by the community.
 We have a standard 10% tax which is split into:
 * 7% To the community fund,
 * 2% Reflection to holders,
-* 1$ Gets discarded,
+* 1% Gets discarded,
 
 # Our funding principles:
 * **We will do more than support organisations to survive and continue; we want to support communities to thrive and grow.**
