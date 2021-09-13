@@ -27,7 +27,7 @@ This means we recognise that some organisations will need more support from us t
 # Things still left to do...
 - [x] Create the solidity contract
 - [ ] Create the whitepaper 
-- [ ] Design and create media
+- [x] Design and create media
 - [ ] Develop the landing page website
 - [ ] Develop the mobile/web application
 
