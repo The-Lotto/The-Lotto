@@ -25,9 +25,9 @@ We will make sure we engage with all the communities we serve across the world a
 This means we recognise that some organisations will need more support from us to access our funding and that we will manage our funding relationships so that organisations are able to respond to the changing needs of the communities they serve now and in the future.
 
 # Things still left to do...
-- [x] Create the solidity contract
+- [x] ~~Create the solidity contract~~
 - [ ] Create the whitepaper 
-- [x] Design and create media
+- [x] ~~Design and create media~~
 - [ ] Develop the landing page website
 - [ ] Develop the mobile/web application
 
