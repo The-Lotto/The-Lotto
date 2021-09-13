@@ -6,9 +6,10 @@ People use funding to do extraordinary things, taking the lead to improve their 
 All community funds will be voted for monthly by the community. 
 
 # Tokenomics
-We have a standard 10% tax which is split into:
+We have a standard 11% tax which is split into:
 * 7% To the community fund,
 * 2% Reflection to holders,
+* 1% Goes into a weekly holders lotto
 * 1% Gets discarded,
 
 # Our funding principles:
